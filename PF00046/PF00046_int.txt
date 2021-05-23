@@ -1,0 +1,153 @@
+1akh.B_135-188.1akh.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1akh.A_78-124.1akh.pdb1.pdb H-Bb H-Mj L-Bb
+1apl.D_135-188.1apl.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1apl.C_135-188.1apl.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1au7.B_103-158.1au7.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1au7.A_103-158.1au7.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1b72.B_235-293.1b72.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1b72.A_207-260.1b72.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1b8i.B_205-261.1b8i.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1b8i.A_93-158.1b8i.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1du0.B_103-158.1du0.pdb1.pdb H-Bb H-Mj L-Bb
+1du0.A_7-58.1du0.pdb1.pdb H-Bb H-Mj L-Bb
+1fjl.C_2-58.1fjl.bel3.pdb no
+1fjl.A_2-58.1fjl.bel2.pdb H-Bb H-Mj L-Bb L-Mn
+1fjl.B_2-58.1fjl.bel2.pdb H-Bb H-Mj L-Bb L-Mn
+1fjl.B_2-58.1fjl.bel1.pdb H-Bb H-Mj L-Bb L-Mn
+1fjl.A_2-58.1fjl.bel1.pdb H-Bb H-Mj L-Bb L-Mn
+1gt0.C_102-158.1gt0.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1hdd.C_3-58.1hdd.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1hdd.D_3-58.1hdd.pdb1.pdb H-Bb H-Mj L-Bb
+1hf0.B_102-158.1hf0.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1hf0.A_102-158.1hf0.pdb1.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+1ic8.B_203-273.1ic8.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1ic8.A_204-273.1ic8.pdb1.pdb H-Bb H-Mj L-Bb
+1ig7.A_102-158.1ig7.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1jgg.B_303-358.1jgg.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1jgg.A_103-158.1jgg.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1k61.D_135-188.1k61.pdb1.pdb H-Bb H-Mj H-Mn L-Bb
+1k61.C_135-188.1k61.pdb1.pdb H-Bb H-Mj L-Bb
+1k61.B_135-188.1k61.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1k61.A_135-188.1k61.pdb1.pdb H-Bb H-Mj L-Bb
+1le8.B_135-188.1le8.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1le8.A_76-126.1le8.pdb1.pdb H-Bb H-Mj L-Mj
+1mnm.C_135-188.1mnm.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1mnm.D_135-188.1mnm.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1puf.B_234-293.1puf.pdb1.pdb H-Bb H-Mj L-Bb
+1puf.A_206-262.1puf.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1yrn.B_135-188.1yrn.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+1yrn.A_78-124.1yrn.pdb1.pdb H-Bb H-Mj L-Bb
+2d5v.A_100-151.2d5v.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2d5v.B_100-151.2d5v.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+2h1k.A_3-58.2h1k.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2h1k.B_2-58.2h1k.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+2hdd.B_2-57.2hdd.pdb1.pdb H-Bb H-Mj L-Bb
+2hdd.A_5-58.2hdd.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2hos.B_2-58.2hos.pdb1.pdb H-Bb H-Mj L-Bb
+2hos.A_5-58.2hos.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2hot.A_5-58.2hot.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2hot.B_2-58.2hot.pdb1.pdb H-Bb H-Mj L-Bb
+2r5y.B_205-257.2r5y.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2r5y.A_88-158.2r5y.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2r5z.A_103-158.2r5z.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2r5z.B_205-257.2r5z.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+2xsd.C_351-394.2xsd.pdb1.pdb H-Bb H-Mj L-Bb
+3a01.A_186-242.3a01.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3a01.B_86-142.3a01.pdb1.pdb H-Bb H-Mj L-Bb
+3a01.F_86-142.3a01.pdb2.pdb H-Bb H-Mj L-Bb
+3a01.E_183-242.3a01.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+3cmy.A_2-58.3cmy.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3d1n.L_235-287.3d1n.pdb1.pdb H-Bb
+3d1n.K_235-290.3d1n.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3d1n.I_235-290.3d1n.pdb3.pdb H-Bb H-Mj L-Bb L-Mn
+3d1n.O_235-290.3d1n.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+3d1n.M_235-290.3d1n.pdb4.pdb H-Bb H-Mj L-Bb L-Mn
+3hdd.B_3-58.3hdd.pdb1.pdb H-Bb H-Mj L-Bb
+3hdd.A_5-58.3hdd.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3l1p.B_94-150.3l1p.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3l1p.A_94-150.3l1p.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3lnq.A_87-142.3lnq.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3rkq.A_139-194.3rkq.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+3rkq.B_139-192.3rkq.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4cyc.B_4-58.4cyc.pdb1.pdb H-Bb H-Mj L-Bb
+4cyc.A_-7-58.4cyc.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4j19.B_269-339.4j19.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4j19.A_271-339.4j19.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4rdu.D_138-194.4rdu.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+4rdu.A_138-194.4rdu.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4s0h.F_105-157.4s0h.pdb2.pdb H-Bb H-Mj L-Bb
+4s0h.B_142-194.4s0h.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4uus.F_8-58.4uus.pdb2.pdb H-Bb H-Mj L-Bb
+4uus.E_5-58.4uus.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+4uus.B_7-58.4uus.pdb1.pdb H-Bb H-Mj L-Bb
+4uus.A_5-58.4uus.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4xic.D_5-58.4xic.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+4xic.A_2-58.4xic.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+4xid.D_5-58.4xid.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+4xid.A_3-58.4xid.pdb1.pdb H-Bb H-Mj
+5eea.B_217-273.5eea.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5eea.A_217-273.5eea.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+5eea.G_217-273.5eea.pdb3.pdb H-Bb H-Mj L-Bb L-Mn
+5eea.J_217-273.5eea.pdb4.pdb H-Bb H-Mj L-Bb L-Mn
+5ego.B_217-273.5ego.pdb1.pdb H-Bb H-Mj
+5hod.D_87-142.5hod.pdb1.pdb H-Bb H-Mj L-Bb
+5hod.A_86-142.5hod.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5jlw.A_5-58.5jlw.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5jlw.D_5-58.5jlw.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+5jlx.A_5-58.5jlx.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5jlx.D_3-58.5jlx.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+5lty.M_188-243.5lty.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+5lty.K_188-243.5lty.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5no6.B_217-273.5no6.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+5no6.A_217-273.5no6.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5z2t.D_9-60.5z2t.pdb1.pdb H-Bb H-Mj
+5z2t.C_9-60.5z2t.pdb1.pdb H-Bb H-Mj
+5z6z.A_20-74.5z6z.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5z6z.A_95-149.5z6z.pdb1.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+5zfw.A_95-149.5zfw.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zfw.A_20-74.5zfw.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zfy.A_20-74.5zfy.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zfy.A_95-149.5zfy.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zfz.A_95-149.5zfz.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zfz.A_20-74.5zfz.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zjq.A_21-76.5zjq.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zjq.B_3-62.5zjq.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zjs.A_21-76.5zjs.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+5zjs.B_3-62.5zjs.pdb1.pdb H-Bb H-Mj L-Bb
+5zjt.B_3-62.5zjt.pdb1.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+5zjt.A_21-76.5zjt.pdb1.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+5zjt.E_21-76.5zjt.pdb2.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+6a8r.B_2-56.6a8r.pdb1.pdb no
+6a8r.A_2-56.6a8r.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6dfy.C_9-60.6dfy.pdb1.pdb H-Bb H-Mj
+6dfy.D_10-60.6dfy.pdb1.pdb H-Bb H-Mj
+6e8c.A_20-74.6e8c.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6e8c.A_95-149.6e8c.pdb1.pdb H-Bb H-Mj L-Bb L-Mj L-Mn
+6es2.L_188-243.6es2.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6es2.K_188-243.6es2.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6es3.K_188-243.6es3.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6es3.M_188-243.6es3.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6m3d.C_90-145.6m3d.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6ryd.A_37-97.6ryd.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6ryd.B_37-95.6ryd.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6ryd.F_38-95.6ryd.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryd.E_37-97.6ryd.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryi.B_37-95.6ryi.pdb1.pdb H-Bb H-Mj L-Bb L-Mj
+6ryi.A_37-95.6ryi.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6ryi.E_37-96.6ryi.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryi.D_37-96.6ryi.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryi.C_37-96.6ryi.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryl.D_37-97.6ryl.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryl.E_37-97.6ryl.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
+6ryl.A_39-97.6ryl.pdb1.pdb H-Bb H-Mj
+6ryl.B_37-97.6ryl.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6ryl.C_37-97.6ryl.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6u81.A_20-74.6u81.pdb1.pdb H-Bb H-Mj L-Bb
+6u81.A_95-149.6u81.pdb1.pdb H-Bb H-Mj L-Bb L-Mn
+6wc2.O_145-195.6wc2.pdb1.pdb H-Bb H-Mj
+6wc2.M_142-195.6wc2.pdb2.pdb H-Bb H-Mj
+6wc2.N_142-194.6wc2.pdb3.pdb H-Bb H-Mj L-Bb L-Mn
+6wc5.I_142-195.6wc5.pdb1.pdb H-Bb H-Mj
+6wc5.N_140-194.6wc5.pdb2.pdb H-Bb H-Mj
+9ant.A_5-58.9ant.pdb1.pdb H-Bb H-Mj L-Bb
+9ant.B_5-58.9ant.pdb2.pdb H-Bb H-Mj L-Bb L-Mn
