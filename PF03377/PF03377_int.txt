@@ -1,0 +1,614 @@
+2ypf.A_437-470.2ypf.pdb1.pdb no
+2ypf.A_471-504.2ypf.pdb1.pdb no
+2ypf.A_812-844.2ypf.pdb1.pdb no
+2ypf.A_777-810.2ypf.pdb1.pdb no
+2ypf.A_743-776.2ypf.pdb1.pdb no
+2ypf.A_709-742.2ypf.pdb1.pdb no
+2ypf.A_675-708.2ypf.pdb1.pdb no
+2ypf.A_641-674.2ypf.pdb1.pdb no
+2ypf.A_608-640.2ypf.pdb1.pdb no
+2ypf.A_573-606.2ypf.pdb1.pdb no
+2ypf.A_539-572.2ypf.pdb1.pdb no
+2ypf.A_505-538.2ypf.pdb1.pdb no
+2ypf.A_267-300.2ypf.pdb1.pdb no
+2ypf.A_301-334.2ypf.pdb1.pdb no
+2ypf.A_336-368.2ypf.pdb1.pdb no
+2ypf.A_404-436.2ypf.pdb1.pdb no
+2ypf.A_369-402.2ypf.pdb1.pdb no
+4cja.A_689-720.4cja.pdb1.pdb H-Bb
+4cja.A_656-687.4cja.pdb1.pdb H-Bb L-Bb
+4cja.A_623-654.4cja.pdb1.pdb H-Bb L-Bb
+4cja.A_589-621.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_556-588.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_524-555.4cja.pdb1.pdb H-Bb
+4cja.A_491-522.4cja.pdb1.pdb H-Bb
+4cja.A_458-489.4cja.pdb1.pdb H-Bb L-Bb
+4cja.A_424-456.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_391-423.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_358-390.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_325-357.4cja.pdb1.pdb H-Bb L-Mj
+4cja.A_292-324.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_259-291.4cja.pdb1.pdb L-Bb L-Mj
+4cja.A_226-258.4cja.pdb1.pdb L-Bb
+4cja.A_194-225.4cja.pdb1.pdb H-Bb
+4cja.A_160-192.4cja.pdb1.pdb H-Bb
+4cja.A_127-159.4cja.pdb1.pdb L-Bb L-Mj
+4cja.A_94-126.4cja.pdb1.pdb H-Bb L-Bb L-Mj
+4cja.A_61-93.4cja.pdb1.pdb L-Mj
+4cja.A_30-60.4cja.pdb1.pdb no
+4gjp.A_267-300.4gjp.pdb1.pdb no
+4gjp.A_301-334.4gjp.pdb1.pdb no
+4gjp.A_335-368.4gjp.pdb1.pdb no
+4gjp.A_369-402.4gjp.pdb1.pdb no
+4gjp.A_404-436.4gjp.pdb1.pdb no
+4gjp.A_438-470.4gjp.pdb1.pdb no
+4gjp.A_472-504.4gjp.pdb1.pdb no
+4gjp.B_404-436.4gjp.pdb1.pdb no
+4gjp.B_641-674.4gjp.pdb1.pdb no
+4gjp.B_608-640.4gjp.pdb1.pdb no
+4gjp.B_573-606.4gjp.pdb1.pdb no
+4gjp.B_540-572.4gjp.pdb1.pdb no
+4gjp.B_505-538.4gjp.pdb1.pdb no
+4gjp.B_472-504.4gjp.pdb1.pdb no
+4gjp.B_438-470.4gjp.pdb1.pdb no
+4gjp.B_369-402.4gjp.pdb1.pdb no
+4gjp.A_641-674.4gjp.pdb1.pdb no
+4gjp.B_267-300.4gjp.pdb1.pdb no
+4gjp.B_301-334.4gjp.pdb1.pdb no
+4gjp.B_335-368.4gjp.pdb1.pdb no
+4gjp.A_608-640.4gjp.pdb1.pdb no
+4gjp.A_540-572.4gjp.pdb1.pdb no
+4gjp.A_573-606.4gjp.pdb1.pdb no
+4gjp.A_505-538.4gjp.pdb1.pdb no
+4gjr.B_641-674.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.B_608-640.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.B_573-606.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.B_540-572.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.B_506-538.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.B_472-504.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.B_438-470.4gjr.pdb1.pdb H-Bb
+4gjr.B_404-436.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.B_369-402.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.B_335-368.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.B_301-334.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.B_267-300.4gjr.pdb1.pdb H-Bb
+4gjr.A_641-674.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.A_608-640.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_573-606.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.A_540-572.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_506-538.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_472-504.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_335-368.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.A_369-402.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4gjr.A_438-470.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_404-436.4gjr.pdb1.pdb H-Bb L-Bb
+4gjr.A_267-300.4gjr.pdb1.pdb H-Bb
+4gjr.A_301-334.4gjr.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_641-674.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_608-640.4osh.pdb1.pdb H-Bb L-Bb
+4osh.B_573-606.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_540-572.4osh.pdb1.pdb H-Bb
+4osh.B_505-538.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_472-504.4osh.pdb1.pdb H-Bb
+4osh.B_438-470.4osh.pdb1.pdb H-Bb L-Bb
+4osh.B_404-436.4osh.pdb1.pdb H-Bb L-Bb
+4osh.B_369-402.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_267-300.4osh.pdb1.pdb H-Bb
+4osh.B_335-368.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.B_301-334.4osh.pdb1.pdb H-Bb L-Bb L-Mj
+4osh.A_335-368.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_369-402.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_404-436.4osh.pdb2.pdb H-Bb L-Bb
+4osh.A_438-470.4osh.pdb2.pdb H-Bb L-Bb
+4osh.A_472-504.4osh.pdb2.pdb H-Bb L-Bb
+4osh.A_505-538.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_540-572.4osh.pdb2.pdb H-Bb
+4osh.A_573-606.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_301-334.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_641-674.4osh.pdb2.pdb H-Bb L-Bb L-Mj
+4osh.A_608-640.4osh.pdb2.pdb H-Bb L-Bb
+4osh.A_267-300.4osh.pdb2.pdb H-Bb
+4osi.A_641-674.4osi.pdb1.pdb H-Bb L-Bb L-Mj
+4osi.A_608-640.4osi.pdb1.pdb H-Bb L-Bb
+4osi.A_573-606.4osi.pdb1.pdb L-Bb L-Mj
+4osi.A_540-572.4osi.pdb1.pdb H-Bb
+4osi.A_505-538.4osi.pdb1.pdb H-Bb L-Bb L-Mj
+4osi.A_472-504.4osi.pdb1.pdb H-Bb L-Bb
+4osi.A_438-470.4osi.pdb1.pdb H-Bb L-Bb
+4osi.A_404-436.4osi.pdb1.pdb H-Bb L-Bb
+4osi.A_369-402.4osi.pdb1.pdb H-Bb L-Mj
+4osi.A_267-300.4osi.pdb1.pdb no
+4osi.A_335-368.4osi.pdb1.pdb H-Bb L-Mj
+4osi.A_301-334.4osi.pdb1.pdb L-Bb L-Mj
+4osi.B_608-640.4osi.pdb2.pdb H-Bb
+4osi.B_573-606.4osi.pdb2.pdb H-Bb L-Mj
+4osi.B_540-572.4osi.pdb2.pdb H-Bb
+4osi.B_438-470.4osi.pdb2.pdb H-Bb
+4osi.B_472-504.4osi.pdb2.pdb H-Bb
+4osi.B_505-538.4osi.pdb2.pdb L-Bb L-Mj
+4osi.B_641-674.4osi.pdb2.pdb L-Bb L-Mj
+4osi.B_404-436.4osi.pdb2.pdb H-Bb L-Bb
+4osi.B_369-402.4osi.pdb2.pdb H-Bb L-Bb L-Mj
+4osi.B_335-368.4osi.pdb2.pdb H-Bb L-Mj
+4osi.B_301-334.4osi.pdb2.pdb L-Bb L-Mj
+4osi.B_267-300.4osi.pdb2.pdb no
+4osj.B_641-674.4osj.pdb2.pdb H-Bb L-Bb L-Mj
+4osj.B_608-640.4osj.pdb2.pdb H-Bb L-Bb
+4osj.B_573-606.4osj.pdb2.pdb H-Bb L-Bb L-Mj
+4osj.B_540-572.4osj.pdb2.pdb H-Bb
+4osj.B_505-538.4osj.pdb2.pdb H-Bb L-Bb L-Mj
+4osj.B_472-504.4osj.pdb2.pdb H-Bb
+4osj.B_438-470.4osj.pdb2.pdb H-Bb L-Bb
+4osj.B_404-436.4osj.pdb2.pdb H-Bb L-Bb
+4osj.B_369-402.4osj.pdb2.pdb H-Bb L-Bb L-Mj
+4osj.B_267-300.4osj.pdb2.pdb no
+4osj.B_335-368.4osj.pdb2.pdb H-Bb L-Bb L-Mj
+4osj.B_301-334.4osj.pdb2.pdb H-Bb L-Mj
+4osj.A_608-640.4osj.pdb1.pdb H-Bb
+4osj.A_573-606.4osj.pdb1.pdb H-Bb L-Bb L-Mj
+4osj.A_540-572.4osj.pdb1.pdb H-Bb
+4osj.A_505-538.4osj.pdb1.pdb H-Bb L-Bb L-Mj
+4osj.A_472-504.4osj.pdb1.pdb H-Bb
+4osj.A_438-470.4osj.pdb1.pdb H-Bb L-Bb
+4osj.A_404-436.4osj.pdb1.pdb H-Bb
+4osj.A_369-402.4osj.pdb1.pdb H-Bb L-Bb L-Mj
+4osj.A_335-368.4osj.pdb1.pdb H-Bb L-Bb L-Mj
+4osj.A_641-674.4osj.pdb1.pdb H-Bb L-Bb L-Mj
+4osj.A_301-334.4osj.pdb1.pdb H-Bb L-Mj
+4osj.A_267-300.4osj.pdb1.pdb H-Bb
+4osk.A_641-674.4osk.pdb1.pdb H-Bb L-Bb L-Mj
+4osk.A_608-640.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_574-606.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_539-572.4osk.pdb1.pdb H-Bb L-Bb L-Mj
+4osk.A_506-538.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_472-504.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_437-470.4osk.pdb1.pdb H-Bb L-Bb L-Mj
+4osk.A_404-436.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_370-402.4osk.pdb1.pdb H-Bb L-Bb
+4osk.A_267-300.4osk.pdb1.pdb H-Bb
+4osk.A_335-368.4osk.pdb1.pdb H-Bb L-Bb L-Mj
+4osk.A_301-334.4osk.pdb1.pdb H-Bb L-Bb L-Mj
+4osk.B_641-674.4osk.pdb2.pdb L-Bb L-Mj
+4osk.B_608-640.4osk.pdb2.pdb no
+4osk.B_574-606.4osk.pdb2.pdb no
+4osk.B_301-334.4osk.pdb2.pdb L-Bb L-Mj
+4osk.B_335-368.4osk.pdb2.pdb L-Mj
+4osk.B_370-402.4osk.pdb2.pdb no
+4osk.B_404-436.4osk.pdb2.pdb no
+4osk.B_437-470.4osk.pdb2.pdb L-Mj
+4osk.B_472-504.4osk.pdb2.pdb no
+4osk.B_506-538.4osk.pdb2.pdb no
+4osk.B_539-572.4osk.pdb2.pdb L-Bb L-Mj
+4osk.B_267-300.4osk.pdb2.pdb no
+4osl.A_641-674.4osl.pdb1.pdb no
+4osl.A_608-640.4osl.pdb1.pdb no
+4osl.A_573-606.4osl.pdb1.pdb no
+4osl.A_540-572.4osl.pdb1.pdb no
+4osl.A_506-538.4osl.pdb1.pdb no
+4osl.A_472-504.4osl.pdb1.pdb no
+4osl.A_438-470.4osl.pdb1.pdb no
+4osl.A_404-436.4osl.pdb1.pdb no
+4osl.A_369-402.4osl.pdb1.pdb no
+4osl.A_267-300.4osl.pdb1.pdb no
+4osl.A_335-368.4osl.pdb1.pdb no
+4osl.A_301-334.4osl.pdb1.pdb no
+4osl.B_438-470.4osl.pdb2.pdb no
+4osl.B_472-504.4osl.pdb2.pdb no
+4osl.B_506-538.4osl.pdb2.pdb no
+4osl.B_540-572.4osl.pdb2.pdb no
+4osl.B_573-606.4osl.pdb2.pdb no
+4osl.B_608-640.4osl.pdb2.pdb no
+4osl.B_641-674.4osl.pdb2.pdb no
+4osl.B_404-436.4osl.pdb2.pdb no
+4osl.B_301-334.4osl.pdb2.pdb no
+4osl.B_335-368.4osl.pdb2.pdb no
+4osl.B_369-402.4osl.pdb2.pdb no
+4osl.B_267-300.4osl.pdb2.pdb no
+4osm.A_641-674.4osm.pdb1.pdb no
+4osm.A_608-640.4osm.pdb1.pdb no
+4osm.A_573-606.4osm.pdb1.pdb no
+4osm.A_540-572.4osm.pdb1.pdb no
+4osm.A_506-538.4osm.pdb1.pdb no
+4osm.A_472-504.4osm.pdb1.pdb no
+4osm.A_438-470.4osm.pdb1.pdb no
+4osm.A_404-436.4osm.pdb1.pdb no
+4osm.A_369-402.4osm.pdb1.pdb no
+4osm.A_267-300.4osm.pdb1.pdb no
+4osm.A_335-368.4osm.pdb1.pdb no
+4osm.A_301-334.4osm.pdb1.pdb no
+4osm.B_608-640.4osm.pdb2.pdb no
+4osm.B_573-606.4osm.pdb2.pdb no
+4osm.B_540-572.4osm.pdb2.pdb no
+4osm.B_472-504.4osm.pdb2.pdb no
+4osm.B_506-538.4osm.pdb2.pdb no
+4osm.B_641-674.4osm.pdb2.pdb no
+4osm.B_438-470.4osm.pdb2.pdb no
+4osm.B_335-368.4osm.pdb2.pdb no
+4osm.B_369-402.4osm.pdb2.pdb no
+4osm.B_404-436.4osm.pdb2.pdb no
+4osm.B_301-334.4osm.pdb2.pdb no
+4osm.B_267-300.4osm.pdb2.pdb no
+4osq.A_641-674.4osq.pdb1.pdb no
+4osq.A_608-640.4osq.pdb1.pdb no
+4osq.A_573-606.4osq.pdb1.pdb no
+4osq.A_540-572.4osq.pdb1.pdb no
+4osq.A_506-538.4osq.pdb1.pdb no
+4osq.A_472-504.4osq.pdb1.pdb no
+4osq.A_438-470.4osq.pdb1.pdb no
+4osq.A_404-436.4osq.pdb1.pdb no
+4osq.A_267-300.4osq.pdb1.pdb no
+4osq.A_369-402.4osq.pdb1.pdb no
+4osq.A_335-368.4osq.pdb1.pdb no
+4osq.A_301-334.4osq.pdb1.pdb no
+4osq.B_573-606.4osq.pdb2.pdb no
+4osq.B_608-640.4osq.pdb2.pdb no
+4osq.B_335-368.4osq.pdb2.pdb no
+4osq.B_369-402.4osq.pdb2.pdb no
+4osq.B_404-436.4osq.pdb2.pdb no
+4osq.B_438-470.4osq.pdb2.pdb no
+4osq.B_472-504.4osq.pdb2.pdb no
+4osq.B_506-538.4osq.pdb2.pdb no
+4osq.B_540-572.4osq.pdb2.pdb no
+4osq.B_641-674.4osq.pdb2.pdb no
+4osq.B_267-300.4osq.pdb2.pdb no
+4osq.B_301-334.4osq.pdb2.pdb no
+4osr.A_641-674.4osr.pdb1.pdb no
+4osr.A_608-640.4osr.pdb1.pdb no
+4osr.A_573-606.4osr.pdb1.pdb no
+4osr.A_540-572.4osr.pdb1.pdb no
+4osr.A_506-538.4osr.pdb1.pdb no
+4osr.A_472-504.4osr.pdb1.pdb no
+4osr.A_438-470.4osr.pdb1.pdb no
+4osr.A_404-436.4osr.pdb1.pdb no
+4osr.A_369-402.4osr.pdb1.pdb no
+4osr.A_267-300.4osr.pdb1.pdb no
+4osr.A_335-368.4osr.pdb1.pdb no
+4osr.A_301-334.4osr.pdb1.pdb no
+4osr.B_267-300.4osr.pdb2.pdb no
+4osr.B_301-334.4osr.pdb2.pdb no
+4osr.B_335-368.4osr.pdb2.pdb no
+4osr.B_369-402.4osr.pdb2.pdb no
+4osr.B_404-436.4osr.pdb2.pdb no
+4osr.B_438-470.4osr.pdb2.pdb no
+4osr.B_472-504.4osr.pdb2.pdb no
+4osr.B_506-538.4osr.pdb2.pdb no
+4osr.B_540-572.4osr.pdb2.pdb no
+4osr.B_573-606.4osr.pdb2.pdb no
+4osr.B_641-674.4osr.pdb2.pdb no
+4osr.B_608-640.4osr.pdb2.pdb no
+4oss.A_641-674.4oss.pdb1.pdb no
+4oss.A_608-640.4oss.pdb1.pdb no
+4oss.A_573-606.4oss.pdb1.pdb no
+4oss.A_540-572.4oss.pdb1.pdb no
+4oss.A_506-538.4oss.pdb1.pdb no
+4oss.A_472-504.4oss.pdb1.pdb no
+4oss.A_438-470.4oss.pdb1.pdb no
+4oss.A_404-436.4oss.pdb1.pdb no
+4oss.A_369-402.4oss.pdb1.pdb no
+4oss.A_267-300.4oss.pdb1.pdb no
+4oss.A_335-368.4oss.pdb1.pdb no
+4oss.A_301-334.4oss.pdb1.pdb no
+4oss.B_608-640.4oss.pdb2.pdb no
+4oss.B_335-368.4oss.pdb2.pdb no
+4oss.B_369-402.4oss.pdb2.pdb no
+4oss.B_404-436.4oss.pdb2.pdb no
+4oss.B_438-470.4oss.pdb2.pdb no
+4oss.B_472-504.4oss.pdb2.pdb no
+4oss.B_506-538.4oss.pdb2.pdb no
+4oss.B_540-572.4oss.pdb2.pdb no
+4oss.B_573-606.4oss.pdb2.pdb no
+4oss.B_641-674.4oss.pdb2.pdb no
+4oss.B_301-334.4oss.pdb2.pdb no
+4oss.B_267-300.4oss.pdb2.pdb no
+4ost.A_641-674.4ost.pdb1.pdb no
+4ost.A_608-640.4ost.pdb1.pdb no
+4ost.A_573-606.4ost.pdb1.pdb no
+4ost.A_540-572.4ost.pdb1.pdb no
+4ost.A_506-538.4ost.pdb1.pdb no
+4ost.A_472-504.4ost.pdb1.pdb no
+4ost.A_438-470.4ost.pdb1.pdb no
+4ost.A_404-436.4ost.pdb1.pdb no
+4ost.A_369-402.4ost.pdb1.pdb no
+4ost.A_267-300.4ost.pdb1.pdb no
+4ost.A_335-368.4ost.pdb1.pdb no
+4ost.A_301-334.4ost.pdb1.pdb no
+4ost.B_438-470.4ost.pdb2.pdb no
+4ost.B_472-504.4ost.pdb2.pdb no
+4ost.B_506-538.4ost.pdb2.pdb no
+4ost.B_540-572.4ost.pdb2.pdb no
+4ost.B_573-606.4ost.pdb2.pdb no
+4ost.B_608-640.4ost.pdb2.pdb no
+4ost.B_641-674.4ost.pdb2.pdb no
+4ost.B_404-436.4ost.pdb2.pdb no
+4ost.B_369-402.4ost.pdb2.pdb no
+4ost.B_267-300.4ost.pdb2.pdb no
+4ost.B_301-334.4ost.pdb2.pdb no
+4ost.B_335-368.4ost.pdb2.pdb no
+4osv.A_641-674.4osv.pdb1.pdb no
+4osv.A_608-640.4osv.pdb1.pdb no
+4osv.A_573-606.4osv.pdb1.pdb no
+4osv.A_540-572.4osv.pdb1.pdb no
+4osv.A_506-538.4osv.pdb1.pdb no
+4osv.A_472-504.4osv.pdb1.pdb no
+4osv.A_438-470.4osv.pdb1.pdb no
+4osv.A_404-436.4osv.pdb1.pdb no
+4osv.A_369-402.4osv.pdb1.pdb no
+4osv.A_267-300.4osv.pdb1.pdb no
+4osv.A_335-368.4osv.pdb1.pdb no
+4osv.A_301-334.4osv.pdb1.pdb no
+4osv.B_438-470.4osv.pdb2.pdb no
+4osv.B_472-504.4osv.pdb2.pdb no
+4osv.B_506-538.4osv.pdb2.pdb no
+4osv.B_540-572.4osv.pdb2.pdb no
+4osv.B_573-606.4osv.pdb2.pdb no
+4osv.B_608-640.4osv.pdb2.pdb no
+4osv.B_641-674.4osv.pdb2.pdb no
+4osv.B_404-436.4osv.pdb2.pdb no
+4osv.B_369-402.4osv.pdb2.pdb no
+4osv.B_267-300.4osv.pdb2.pdb no
+4osv.B_301-334.4osv.pdb2.pdb no
+4osv.B_335-368.4osv.pdb2.pdb no
+4osw.A_641-674.4osw.pdb1.pdb no
+4osw.A_608-640.4osw.pdb1.pdb no
+4osw.A_573-606.4osw.pdb1.pdb no
+4osw.A_540-572.4osw.pdb1.pdb no
+4osw.A_506-538.4osw.pdb1.pdb no
+4osw.A_472-504.4osw.pdb1.pdb no
+4osw.A_438-470.4osw.pdb1.pdb no
+4osw.A_404-436.4osw.pdb1.pdb no
+4osw.A_369-402.4osw.pdb1.pdb no
+4osw.A_267-300.4osw.pdb1.pdb no
+4osw.A_335-368.4osw.pdb1.pdb no
+4osw.A_301-334.4osw.pdb1.pdb no
+4osw.B_641-674.4osw.pdb2.pdb no
+4osw.B_404-436.4osw.pdb2.pdb no
+4osw.B_438-470.4osw.pdb2.pdb no
+4osw.B_472-504.4osw.pdb2.pdb no
+4osw.B_506-538.4osw.pdb2.pdb no
+4osw.B_540-572.4osw.pdb2.pdb no
+4osw.B_573-606.4osw.pdb2.pdb no
+4osw.B_369-402.4osw.pdb2.pdb no
+4osw.B_267-300.4osw.pdb2.pdb no
+4osw.B_301-334.4osw.pdb2.pdb no
+4osw.B_335-368.4osw.pdb2.pdb no
+4osw.B_608-640.4osw.pdb2.pdb no
+4osz.A_641-674.4osz.pdb1.pdb no
+4osz.A_608-640.4osz.pdb1.pdb no
+4osz.A_573-606.4osz.pdb1.pdb no
+4osz.A_540-572.4osz.pdb1.pdb no
+4osz.A_506-538.4osz.pdb1.pdb no
+4osz.A_472-504.4osz.pdb1.pdb no
+4osz.A_438-470.4osz.pdb1.pdb no
+4osz.A_404-436.4osz.pdb1.pdb no
+4osz.A_369-402.4osz.pdb1.pdb no
+4osz.A_267-300.4osz.pdb1.pdb no
+4osz.A_335-368.4osz.pdb1.pdb no
+4osz.A_301-334.4osz.pdb1.pdb no
+4osz.B_540-572.4osz.pdb2.pdb no
+4osz.B_573-606.4osz.pdb2.pdb no
+4osz.B_608-640.4osz.pdb2.pdb no
+4osz.B_267-300.4osz.pdb2.pdb no
+4osz.B_301-334.4osz.pdb2.pdb no
+4osz.B_335-368.4osz.pdb2.pdb no
+4osz.B_369-402.4osz.pdb2.pdb no
+4osz.B_404-436.4osz.pdb2.pdb no
+4osz.B_438-470.4osz.pdb2.pdb no
+4osz.B_472-504.4osz.pdb2.pdb no
+4osz.B_506-538.4osz.pdb2.pdb no
+4osz.B_641-674.4osz.pdb2.pdb no
+4ot0.A_641-674.4ot0.pdb1.pdb no
+4ot0.A_608-640.4ot0.pdb1.pdb no
+4ot0.A_573-606.4ot0.pdb1.pdb no
+4ot0.A_540-572.4ot0.pdb1.pdb no
+4ot0.A_506-538.4ot0.pdb1.pdb no
+4ot0.A_472-504.4ot0.pdb1.pdb no
+4ot0.A_438-470.4ot0.pdb1.pdb no
+4ot0.A_404-436.4ot0.pdb1.pdb no
+4ot0.A_369-402.4ot0.pdb1.pdb no
+4ot0.A_267-300.4ot0.pdb1.pdb no
+4ot0.A_335-368.4ot0.pdb1.pdb no
+4ot0.A_301-334.4ot0.pdb1.pdb no
+4ot0.B_573-606.4ot0.pdb2.pdb no
+4ot0.B_608-640.4ot0.pdb2.pdb no
+4ot0.B_641-674.4ot0.pdb2.pdb no
+4ot0.B_404-436.4ot0.pdb2.pdb no
+4ot0.B_438-470.4ot0.pdb2.pdb no
+4ot0.B_472-504.4ot0.pdb2.pdb no
+4ot0.B_506-538.4ot0.pdb2.pdb no
+4ot0.B_540-572.4ot0.pdb2.pdb no
+4ot0.B_267-300.4ot0.pdb2.pdb no
+4ot0.B_301-334.4ot0.pdb2.pdb no
+4ot0.B_335-368.4ot0.pdb2.pdb no
+4ot0.B_369-402.4ot0.pdb2.pdb no
+4ot3.A_641-674.4ot3.pdb1.pdb no
+4ot3.A_608-640.4ot3.pdb1.pdb no
+4ot3.A_573-606.4ot3.pdb1.pdb no
+4ot3.A_540-572.4ot3.pdb1.pdb no
+4ot3.A_506-538.4ot3.pdb1.pdb no
+4ot3.A_472-504.4ot3.pdb1.pdb no
+4ot3.A_438-470.4ot3.pdb1.pdb no
+4ot3.A_404-436.4ot3.pdb1.pdb no
+4ot3.A_369-402.4ot3.pdb1.pdb no
+4ot3.A_267-300.4ot3.pdb1.pdb no
+4ot3.A_335-368.4ot3.pdb1.pdb no
+4ot3.A_301-334.4ot3.pdb1.pdb no
+4ot3.B_438-470.4ot3.pdb2.pdb no
+4ot3.B_641-674.4ot3.pdb2.pdb no
+4ot3.B_608-640.4ot3.pdb2.pdb no
+4ot3.B_573-606.4ot3.pdb2.pdb no
+4ot3.B_540-572.4ot3.pdb2.pdb no
+4ot3.B_506-538.4ot3.pdb2.pdb no
+4ot3.B_472-504.4ot3.pdb2.pdb no
+4ot3.B_404-436.4ot3.pdb2.pdb no
+4ot3.B_369-402.4ot3.pdb2.pdb no
+4ot3.B_267-300.4ot3.pdb2.pdb no
+4ot3.B_301-334.4ot3.pdb2.pdb no
+4ot3.B_335-368.4ot3.pdb2.pdb no
+4oto.B_641-674.4oto.pdb2.pdb no
+4oto.B_608-640.4oto.pdb2.pdb no
+4oto.B_573-606.4oto.pdb2.pdb no
+4oto.B_540-572.4oto.pdb2.pdb no
+4oto.B_506-538.4oto.pdb2.pdb no
+4oto.B_472-504.4oto.pdb2.pdb no
+4oto.B_438-470.4oto.pdb2.pdb no
+4oto.B_404-436.4oto.pdb2.pdb no
+4oto.B_369-402.4oto.pdb2.pdb no
+4oto.B_267-300.4oto.pdb2.pdb no
+4oto.B_335-368.4oto.pdb2.pdb no
+4oto.B_301-334.4oto.pdb2.pdb no
+4oto.A_540-572.4oto.pdb1.pdb no
+4oto.A_608-640.4oto.pdb1.pdb no
+4oto.A_573-606.4oto.pdb1.pdb no
+4oto.A_506-538.4oto.pdb1.pdb no
+4oto.A_438-470.4oto.pdb1.pdb no
+4oto.A_472-504.4oto.pdb1.pdb no
+4oto.A_641-674.4oto.pdb1.pdb no
+4oto.A_404-436.4oto.pdb1.pdb no
+4oto.A_369-402.4oto.pdb1.pdb no
+4oto.A_335-368.4oto.pdb1.pdb no
+4oto.A_301-334.4oto.pdb1.pdb no
+4oto.A_267-300.4oto.pdb1.pdb no
+6jtq.A_608-640.6jtq.pdb1.pdb no
+6jtq.A_641-674.6jtq.pdb1.pdb no
+6jtq.A_472-504.6jtq.pdb1.pdb no
+6jtq.A_505-538.6jtq.pdb1.pdb no
+6jtq.A_539-572.6jtq.pdb1.pdb no
+6jtq.A_573-606.6jtq.pdb1.pdb no
+6jtq.A_301-334.6jtq.pdb1.pdb no
+6jtq.A_335-368.6jtq.pdb1.pdb no
+6jtq.A_369-402.6jtq.pdb1.pdb no
+6jtq.A_404-436.6jtq.pdb1.pdb no
+6jtq.A_438-470.6jtq.pdb1.pdb no
+6jtq.A_267-300.6jtq.pdb1.pdb no
+6jtq.B_438-470.6jtq.pdb2.pdb no
+6jtq.B_472-504.6jtq.pdb2.pdb no
+6jtq.B_505-538.6jtq.pdb2.pdb no
+6jtq.B_539-572.6jtq.pdb2.pdb no
+6jtq.B_573-606.6jtq.pdb2.pdb no
+6jtq.B_608-640.6jtq.pdb2.pdb no
+6jtq.B_641-674.6jtq.pdb2.pdb no
+6jtq.B_267-300.6jtq.pdb2.pdb no
+6jtq.B_301-334.6jtq.pdb2.pdb no
+6jtq.B_404-436.6jtq.pdb2.pdb no
+6jtq.B_369-402.6jtq.pdb2.pdb no
+6jtq.B_335-368.6jtq.pdb2.pdb no
+6jvz.A_267-300.6jvz.pdb1.pdb no
+6jvz.A_301-334.6jvz.pdb1.pdb no
+6jvz.A_608-640.6jvz.pdb1.pdb no
+6jvz.A_641-674.6jvz.pdb1.pdb no
+6jvz.A_472-504.6jvz.pdb1.pdb no
+6jvz.A_505-538.6jvz.pdb1.pdb no
+6jvz.A_539-572.6jvz.pdb1.pdb no
+6jvz.A_573-606.6jvz.pdb1.pdb no
+6jvz.A_335-368.6jvz.pdb1.pdb no
+6jvz.A_369-402.6jvz.pdb1.pdb no
+6jvz.A_404-436.6jvz.pdb1.pdb no
+6jvz.A_438-470.6jvz.pdb1.pdb no
+6jvz.B_641-674.6jvz.pdb2.pdb no
+6jvz.B_573-606.6jvz.pdb2.pdb no
+6jvz.B_608-640.6jvz.pdb2.pdb no
+6jvz.B_505-538.6jvz.pdb2.pdb no
+6jvz.B_539-572.6jvz.pdb2.pdb no
+6jvz.B_438-470.6jvz.pdb2.pdb no
+6jvz.B_472-504.6jvz.pdb2.pdb no
+6jvz.B_301-334.6jvz.pdb2.pdb no
+6jvz.B_335-368.6jvz.pdb2.pdb no
+6jvz.B_369-402.6jvz.pdb2.pdb no
+6jvz.B_404-436.6jvz.pdb2.pdb no
+6jvz.B_267-300.6jvz.pdb2.pdb no
+6jw0.A_267-300.6jw0.pdb1.pdb no
+6jw0.A_301-334.6jw0.pdb1.pdb no
+6jw0.A_335-368.6jw0.pdb1.pdb no
+6jw0.A_369-402.6jw0.pdb1.pdb no
+6jw0.A_404-436.6jw0.pdb1.pdb no
+6jw0.A_438-469.6jw0.pdb1.pdb no
+6jw0.A_471-503.6jw0.pdb1.pdb no
+6jw0.A_504-537.6jw0.pdb1.pdb no
+6jw0.A_538-571.6jw0.pdb1.pdb no
+6jw0.A_572-605.6jw0.pdb1.pdb no
+6jw0.A_607-639.6jw0.pdb1.pdb no
+6jw0.A_640-673.6jw0.pdb1.pdb no
+6jw0.B_267-300.6jw0.pdb2.pdb no
+6jw0.B_301-334.6jw0.pdb2.pdb no
+6jw0.B_335-368.6jw0.pdb2.pdb no
+6jw0.B_369-402.6jw0.pdb2.pdb no
+6jw0.B_404-436.6jw0.pdb2.pdb no
+6jw0.B_438-469.6jw0.pdb2.pdb no
+6jw0.B_471-503.6jw0.pdb2.pdb no
+6jw0.B_504-537.6jw0.pdb2.pdb no
+6jw0.B_538-571.6jw0.pdb2.pdb no
+6jw0.B_572-605.6jw0.pdb2.pdb no
+6jw0.B_607-639.6jw0.pdb2.pdb no
+6jw0.B_640-673.6jw0.pdb2.pdb no
+6jw1.A_607-639.6jw1.pdb1.pdb no
+6jw1.A_640-673.6jw1.pdb1.pdb no
+6jw1.A_572-605.6jw1.pdb1.pdb no
+6jw1.A_504-537.6jw1.pdb1.pdb no
+6jw1.A_538-571.6jw1.pdb1.pdb no
+6jw1.A_438-469.6jw1.pdb1.pdb no
+6jw1.A_471-503.6jw1.pdb1.pdb no
+6jw1.A_404-436.6jw1.pdb1.pdb no
+6jw1.A_335-368.6jw1.pdb1.pdb no
+6jw1.A_369-402.6jw1.pdb1.pdb no
+6jw1.A_267-300.6jw1.pdb1.pdb no
+6jw1.A_301-334.6jw1.pdb1.pdb no
+6jw1.B_640-673.6jw1.pdb2.pdb no
+6jw1.B_538-571.6jw1.pdb2.pdb no
+6jw1.B_572-605.6jw1.pdb2.pdb no
+6jw1.B_471-503.6jw1.pdb2.pdb no
+6jw1.B_504-537.6jw1.pdb2.pdb no
+6jw1.B_404-436.6jw1.pdb2.pdb no
+6jw1.B_438-469.6jw1.pdb2.pdb no
+6jw1.B_301-334.6jw1.pdb2.pdb no
+6jw1.B_335-368.6jw1.pdb2.pdb no
+6jw1.B_369-402.6jw1.pdb2.pdb no
+6jw1.B_267-300.6jw1.pdb2.pdb no
+6jw1.B_607-639.6jw1.pdb2.pdb no
+6jw5.A_404-436.6jw5.pdb1.pdb no
+6jw5.A_335-368.6jw5.pdb1.pdb no
+6jw5.A_369-402.6jw5.pdb1.pdb no
+6jw5.A_267-300.6jw5.pdb1.pdb no
+6jw5.A_301-334.6jw5.pdb1.pdb no
+6jw5.A_640-673.6jw5.pdb1.pdb no
+6jw5.A_438-469.6jw5.pdb1.pdb no
+6jw5.A_471-503.6jw5.pdb1.pdb no
+6jw5.A_504-537.6jw5.pdb1.pdb no
+6jw5.A_538-571.6jw5.pdb1.pdb no
+6jw5.A_572-605.6jw5.pdb1.pdb no
+6jw5.A_607-639.6jw5.pdb1.pdb no
+6jw5.B_640-673.6jw5.pdb2.pdb no
+6jw5.B_438-469.6jw5.pdb2.pdb no
+6jw5.B_471-503.6jw5.pdb2.pdb no
+6jw5.B_504-537.6jw5.pdb2.pdb no
+6jw5.B_538-571.6jw5.pdb2.pdb no
+6jw5.B_572-605.6jw5.pdb2.pdb no
+6jw5.B_607-639.6jw5.pdb2.pdb no
+6jw5.B_369-402.6jw5.pdb2.pdb no
+6jw5.B_404-436.6jw5.pdb2.pdb no
+6jw5.B_267-300.6jw5.pdb2.pdb no
+6jw5.B_301-334.6jw5.pdb2.pdb no
+6jw5.B_335-368.6jw5.pdb2.pdb no
+6jw5.E_572-605.6jw5.pdb3.pdb no
+6jw5.E_607-639.6jw5.pdb3.pdb no
+6jw5.E_640-673.6jw5.pdb3.pdb no
+6jw5.E_335-368.6jw5.pdb3.pdb no
+6jw5.E_369-402.6jw5.pdb3.pdb no
+6jw5.E_404-436.6jw5.pdb3.pdb no
+6jw5.E_438-469.6jw5.pdb3.pdb no
+6jw5.E_471-503.6jw5.pdb3.pdb no
+6jw5.E_504-537.6jw5.pdb3.pdb no
+6jw5.E_538-571.6jw5.pdb3.pdb no
+6jw5.E_301-334.6jw5.pdb3.pdb no
+6jw5.E_267-300.6jw5.pdb3.pdb no
+6jw5.H_640-673.6jw5.pdb4.pdb no
+6jw5.H_572-605.6jw5.pdb4.pdb no
+6jw5.H_607-639.6jw5.pdb4.pdb no
+6jw5.H_538-571.6jw5.pdb4.pdb no
+6jw5.H_504-537.6jw5.pdb4.pdb no
+6jw5.H_438-469.6jw5.pdb4.pdb no
+6jw5.H_471-503.6jw5.pdb4.pdb no
+6jw5.H_301-334.6jw5.pdb4.pdb no
+6jw5.H_335-368.6jw5.pdb4.pdb no
+6jw5.H_369-402.6jw5.pdb4.pdb no
+6jw5.H_404-436.6jw5.pdb4.pdb no
+6jw5.H_267-300.6jw5.pdb4.pdb no
