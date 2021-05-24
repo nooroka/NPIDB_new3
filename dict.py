@@ -26,12 +26,13 @@ for line in op:
             os.chdir("/home/nooroka/backup04052021")
             a = str(lineintmode[1][0][1:])+":"+str(lineintmode[2][1])+"_"+str(lineintmode[3])+"-"+str(lineintmode[4])
             b = str(lineintmode[9][1:-1])+"_"+str(lineintmode[12])+"-"+str(lineintmode[13])
-            if str(lineintmode[5][1:-1]) == str(sys.argv[1]):
+            if str(lineintmode[5][1:-1]) == str(sys.argv[1]) and str(lineintmode[6][1:-1])!="||":
                 dict1[b].append(a)
 
 for key in dict1:
     for i in range(len(dict1[key])):
         dict1keyi = dict1[key][i].split(":")
+        print(dict1keyi)
         if dict1keyi[0] in list2:
             list1.append(dict1[key][i])
             break

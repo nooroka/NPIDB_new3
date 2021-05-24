@@ -3,7 +3,7 @@
 import subprocess
 import os
 #os.remove("output4.txt")
-op = open("/home/nooroka/backup04052021/pairs29_PF13465.txt","r")
+op = open("pairs29_PF00046.txt","r")
 for line in op:
     line = line.strip()
     line = line.split()

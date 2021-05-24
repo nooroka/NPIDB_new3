@@ -11,14 +11,40 @@ sysargv11 = sys.argv[1].split(":")[0]
 sysargv22 =  sys.argv[2].split(":")[0]
 sysargvch1 = sys.argv[1].split(":")[1]
 sysargvch2 = sys.argv[2].split(":")[1]
-chain1 = "A"
-chain2 = "D"
-chain11 = sysargvch1.split("_")[0]
-chain22 = sysargvch2.split("_")[0]
+chain1 = sysargvch1.split("_")[0]
+chain2 = sysargvch2.split("_")[0]
+if str(chain2) == "D":
+    chain2 = "Z"
+if str(chain2) == "A":
+    chain2 = "X"
+if str(chain2) == "B":
+    chain2 = "Q"
+if str(chain2) == "C":
+    chain2 = "W"
+if str(chain2) == "E":
+    chain2 = "V"
+if str(chain2) == "F":
+    chain2 = "Rl"
+if str(chain2) == "G":
+    chain2 = "U"
+if str(chain2) == "J":
+    chain2 = "R"
+if str(chain2) == "K":
+    chain2 = "T"
+if str(chain2) == "O":
+    chain2 = "G"
+if str(chain2) == "P":
+    chain2 = "Y"
+if str(chain2) == "M":
+    chain2 = "S"
+if str(chain2) == "H":
+    chain2 = "Lk"
+if str(chain2) == "N":
+    chain2 = "Ln"
 print(chain1)
 print(chain2)
 p = PDBParser()
-s = p.get_structure("{}_{}".format(sysargv11,sysargv22), "{}{}_{}{}.pdb".format(sysargv11,chain11,sysargv22,chain22))
+s = p.get_structure("{}_{}".format(sysargv11,sysargv22), "{}_{}_domains_changed.pdb".format(sysargv11,sysargv22))
 table = open("{}_{}.txt".format(sysargv11,sysargv22),"r")
 table_out = open("{}_{}_out3.txt".format(sysargv11,sysargv22),"w") 
 list11 = []
@@ -137,6 +163,6 @@ print(float(count2)/float(len(list22)))
 
 if float(count)/float(len(list11)) >= 0.8 or float(count2)/float(len(list22)) >= 0.8:
     print("ok")
-    w = open("/home/nooroka/backup04052021/graphfile29_PF13465.txt","a")
+    w = open("/home/verassd/home/vera/Документы/NPIDB/new/graph4/graphfile29_PF00046.txt","a")
     w.write(str(sys.argv[1])+"\t"+str(sys.argv[2])+"\t"+"ok"+"\n")
     w.close()

@@ -7,8 +7,9 @@ import re
 import shutil
 from collections import defaultdict
 import sys
-#os.mkdir("/home/nooroka/write1")         
-os.chdir("/home/npidb/data/pdb_new/Hbond")
+shutil.rmtree("/home/verassd/home/vera/Документы/NPIDB/new/write1")
+os.mkdir("/home/verassd/home/vera/Документы/NPIDB/new/write1")         
+os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/Hbond")
 dictlist1 = defaultdict(list)
 setfiles = set()
 fileend = sys.argv[1]
@@ -28,22 +29,45 @@ listfilecount = []
 for filecount in sorted(os.listdir(".")):
     h = filecount.split(".")
     if str(spl[0]) == str(h[0][0:4]) and str(h[4])=="txt":
-        listfilecount.append(filecount)
-for k in range(len(listfilecount)):
-    op5 = open(listfilecount[k])
-    listchain = []
-    for line5 in op5:
-        if ":" in line5:
-           line5 = line5.strip()
-           line5 = line5.split()
-           line51 = line5[1].split(":")
-           line511 = line51[1].split(".")[0]
-           listchain.append(str(line511))
-    if str(chain) in listchain:
-        h2 = listfilecount[k].split(".")
-        pdb = h2[1]
-
-os.chdir("/home/npidb/data/pdb_new/x3dna")
+         listfilecount.append(filecount)
+if len(listfilecount) > 0:
+    for k in range(len(listfilecount)):
+       op5 = open(listfilecount[k])
+       listchain = []
+       for line5 in op5:
+            if ":" in line5:
+               line5 = line5.strip()
+               line5 = line5.split()
+               line51 = line5[1].split(":")
+               line511 = line51[1].split(".")[0]
+               listchain.append(str(line511))
+       if str(chain) in listchain:
+            h2 = listfilecount[k].split(".")
+            pdb = h2[1]
+else:
+    os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/hydrophobic")
+    listfilecount2 = []
+    for filecount2 in sorted(os.listdir(".")):
+        h = filecount2.split(".")
+        if str(spl[0]) == str(h[0][0:4]) and str(h[4])=="txt":
+            listfilecount2.append(filecount2)
+    if len(listfilecount2) > 0:
+        for m in range(len(listfilecount2)):
+            op6 = open(listfilecount2[m])
+            listchain2 = []
+            for line6 in op6:
+                line6 = line6.strip()
+                line6 = line6.split()
+                if len(line6)==2:
+                    if line6[1][1:4].isalpha() == True:
+                        line66 = line6[1].split(":")
+                        line666 = line66[1].split(".")
+                        listchain2.append(str(line666[0]))
+            if str(chain) in listchain2:
+                h2 = listfilecount2[m].split(".")
+                pdb = h2[1]
+                        
+os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/x3dna/x3dna")
 file1 = "{}.{}.pdb.txt".format(spl[0],h2[1])
 
 #print(str(chain)+" "+str(diap1)+" "+str(diap2))
@@ -82,11 +106,11 @@ for line in op:
                         #print(str(result1)+" "+str(result2)) #все связывающиеся остатки
                         dictlist1[file1].append(result1)
                         num = line[k-2] #номер в цепи
-                os.chdir("/home/nooroka/write1")
+                os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/write1")
                 w = open("{}write.txt".format(file1),"a")
                 w.write(str(result1)+" "+str(result2)+"\n")
                 w.close()
-                os.chdir("/home/npidb/data/pdb_new/x3dna")
+                os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/x3dna/x3dna")
        
         if "Helix" in line:
             line = line.strip()
@@ -111,26 +135,28 @@ op.close()
 listresult = listresult11+listresult22
 #print(listresult)
 dicthbonds = defaultdict(list)
-os.chdir("/home/npidb/data/pdb_new/Hbond")
+os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/Hbond/")
 file2 = "{}.{}.pdb.hb.txt".format(spl[0],h2[1])
-op2 = open(file2,"r")
-for line2 in op2:
-    if ":" in line2:
-        line2 = line2.strip()
-        line2 = line2.split()
-        line220 = line2[0].split(".")
-        line221 = line2[1].split(".")
-        dicthbonds[line220[0]].append(line221[0])
-op2.close()
+if os.path.exists(file2):
+    op2 = open(file2,"r")
+    for line2 in op2:
+        if ":" in line2:
+            line2 = line2.strip()
+            line2 = line2.split()
+            line220 = line2[0].split(".")
+            line221 = line2[1].split(".")
+            dicthbonds[line220[0]].append(line221[0])
+    op2.close()
 #print(dicthbonds.keys())
-listinthbonds = list(set(listresult)&set(dicthbonds.keys()))
+    listinthbonds = list(set(listresult)&set(dicthbonds.keys()))
 #print("listinthbonds "+str(listinthbonds))
-os.chdir("/home/npidb/data/pdb_new/hydrophobic")
+os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/hydrophobic")
 file3 = "{}.{}.pdb.regraph.txt".format(spl[0],h2[1])
-dictgraph = {}
-dicthydrophobic = defaultdict(list)
-op2 = open(file3,"r")
-for line3 in op2:
+if os.path.exists(file3):
+  dictgraph = {}
+  dicthydrophobic = defaultdict(list)
+  op2 = open(file3,"r")
+  for line3 in op2:
      line3 = line3.strip()
      if len(line3) == 0:
             continue #не break, иначе будет печататься только до vertices
@@ -189,7 +215,7 @@ print(hydrophobic2)
 hbond_hyd =  list(set(hbonds2) ^ set(hydrophobic2))+list(set(hbonds2) & set(hydrophobic2))
 print(list(set(hbonds2) & set(hydrophobic2)))
 print(hbond_hyd)
-os.chdir("/home/nooroka/")
+os.chdir("/home/verassd/home/vera/Документы/NPIDB/new/")
 w = open("{}.txt".format(spl[0]),"w")
 for k in range(len(hbond_hyd)):
     w.write(str(hbond_hyd[k])+"\n")

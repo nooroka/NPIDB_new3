@@ -100,18 +100,18 @@ cmd.color("red","{}_{}_{}-{}".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2)
 cmd.color("blue","{}_{}_{}-{}".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2))
 cmd.super("{}_{}_{}-{}".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2),"{}_{}_{}-{}".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2))
 cmd.set("seq_view",1) 
-cmd.set("label_size","20")
+cmd.set("label_size","40")
 
-#cmd.label("chain {} and n. CA and i. {}".format(sys.argv11[0],sys1ch1),"'{}_{}_{}-{}'".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2))
+cmd.label("chain {} and n. CA and i. {}".format(sys.argv11[0],sys1ch1),"'{}_{}_{}-{}'".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2))
 
-#cmd.label("chain {} and n. CA and i. {}".format(sys.argv22[0],sys2ch1),"'{}_{}_{}-{}'".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2))
+cmd.label("chain {} and n. CA and i. {}".format(sys.argv22[0],sys2ch1),"'{}_{}_{}-{}'".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2))
 
 
 cmd.save("{}_{}_domains_changed.pse".format(sys.argv1[0],sys.argv2[0]))
 cmd.save("{}_{}_domains_changed.pdb".format(sys.argv1[0],sys.argv2[0]))
 
 
-#cmd.quit()
+cmd.quit()
 
 
 
