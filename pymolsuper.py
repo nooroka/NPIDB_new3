@@ -9,16 +9,58 @@ from pymol import cmd,stored
 pymol.finish_launching()
 sys.argv1 = sys.argv[1].split(":")
 sys.argv2 = sys.argv[2].split(":")
-cmd.fetch(sys.argv1[0])
-cmd.fetch(sys.argv2[0])
-cmd.save("{}.pdb".format(sys.argv1[0]))
+if sys.argv1[0]!=sys.argv2[0]:
+    cmd.fetch(sys.argv1[0])
+    cmd.fetch(sys.argv2[0])
+    cmd.save("{}.pdb".format(sys.argv1[0]))
+    cmd.save("{}.pdb".format(sys.argv2[0]))
+elif sys.argv1[0] == sys.argv2[0]:
+    cmd.fetch(sys.argv1[0],"{}".format(sys.argv1[0]))
+    cmd.fetch(sys.argv2[0],"{}2".format(sys.argv2[0]))
+    sys.argv2[0] = "{}2".format(sys.argv2[0])
+    cmd.save("{}.pdb".format(sys.argv1[0]))
+    cmd.save("{}.pdb".format(sys.argv2[0]))
+    '''
+    cmd.fetch(sys.argv1[0])
+    cmd.save("{}.pdb".format(sys.argv1[0]))
+    sys.argv2[0] = "{}_2".format(sys.argv1[0])
+    cmd.load("{}.pdb".format(sys.argv1[0]),"{}".format(sys.argv2[0]))
+    cmd.save("{}.pdb".format(sys.argv1[0]))
+    cmd.save("{}.pdb".format(sys.argv2[0]))
+    '''
 sys.argv11 = sys.argv1[1].split("_")
 sys.argv22 = sys.argv2[1].split("_")
-cmd.save("{}.pdb".format(sys.argv2[0]))
-sys1ch1 = sys.argv11[1].split("-")[0]#цифры
-sys1ch2 = sys.argv11[1].split("-")[1]
-sys2ch1 = sys.argv22[1].split("-")[0]
-sys2ch2 = sys.argv22[1].split("-")[1]
+
+if str(sys.argv11[1]).count("-") == 1:
+    sys1ch1 = sys.argv11[1].split("-")[0]#цифры
+    sys1ch2 = sys.argv11[1].split("-")[1]
+elif str(sys.argv11[1]).count("-") == 2 and sys.argv11[1][0] == "-":
+    sys1ch1 = "-"+str(sys.argv11[1].split("-")[1])
+    sys1ch2 = sys.argv11[1].split("-")[2]
+elif str(sys.argv11[1]).count("-") == 2 and sys.argv11[1][0] != "-":
+    sys1ch1 = str(sys.argv11[1].split("-")[0])
+    sys1ch2 = "-"+str(sys.argv11[1].split("-")[2])
+elif str(sys.argv11[1]).count("-") == 3:
+    print(sys.argv11[1].split("-"))
+    sys1ch1 = "-"+str(sys.argv11[1].split("-")[1])
+    sys1ch2 = "-"+str(sys.argv11[1].split("-")[3])
+if str(sys.argv22[1]).count("-") == 1:
+    sys2ch1 = sys.argv22[1].split("-")[0]
+    sys2ch2 = sys.argv22[1].split("-")[1]
+elif str(sys.argv22[1]).count("-") == 2 and sys.argv22[1][0] == "-":
+    print(sys.argv22[1].split("-"))
+    sys2ch1 = "-"+str(sys.argv22[1].split("-")[1])
+    sys2ch2 = sys.argv22[1].split("-")[2]
+elif str(sys.argv22[1]).count("-") == 2 and sys.argv22[1][0] != "-":
+    print(sys.argv22[1].split("-"))
+    sys2ch1 = str(sys.argv22[1].split("-")[0])
+    sys2ch2 = "-"+str(sys.argv22[1].split("-")[2])
+elif str(sys.argv22[1]).count("-") == 3:
+    print(sys.argv22[1].split("-"))
+    sys2ch1 = "-"+str(sys.argv22[1].split("-")[1])
+    sys2ch2 = "-"+str(sys.argv22[1].split("-")[3])
+ 
+
 cmd.hide("everything")
 cmd.bg_color("white")
 
@@ -91,7 +133,8 @@ if sys.argv22[0] == "I":
  
 
 
-
+print(sys2ch1)
+print(sys2ch2)
 cmd.select("{}_{}_{}-{}".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2), "{} and resi {}-{} and chain {}".format(sys.argv1[0],sys1ch1,sys1ch2,sys.argv11[0]))
 cmd.show("cartoon","{}_{}_{}-{}".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2))
 cmd.select("{}_{}_{}-{}".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2), "{} and resi {}-{} and chain {}".format(sys.argv2[0],sys2ch1,sys2ch2, sys.argv22[0]))#другой chain
@@ -103,10 +146,7 @@ cmd.set("seq_view",1)
 cmd.set("label_size","40")
 
 cmd.label("chain {} and n. CA and i. {}".format(sys.argv11[0],sys1ch1),"'{}_{}_{}-{}'".format(sys.argv1[0],sys.argv11[0],sys1ch1,sys1ch2))
-
 cmd.label("chain {} and n. CA and i. {}".format(sys.argv22[0],sys2ch1),"'{}_{}_{}-{}'".format(sys.argv2[0],sys.argv22[0],sys2ch1,sys2ch2))
-
-
 cmd.save("{}_{}_domains_changed.pse".format(sys.argv1[0],sys.argv2[0]))
 cmd.save("{}_{}_domains_changed.pdb".format(sys.argv1[0],sys.argv2[0]))
 
